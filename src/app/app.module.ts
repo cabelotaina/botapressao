@@ -7,6 +7,7 @@ import { StateComponent } from './state/state.component';
 import { HomeComponent } from './home/home.component';
 import { RouterModule, Routes } from '@angular/router';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { SenatorComponent } from './senator/senator.component';
 
 
 const appRoutes: Routes = [
@@ -24,7 +25,8 @@ const appRoutes: Routes = [
     AppComponent,
     MapDirective,
     StateComponent,
-    HomeComponent
+    HomeComponent,
+    SenatorComponent
   ],
   imports: [
     BrowserModule,
