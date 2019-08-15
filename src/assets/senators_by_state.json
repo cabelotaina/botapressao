@@ -1,33 +1,33 @@
 {
   "ac": {
-    "name": "Acre",
+    "state": "Acre",
     "acronym": "AC",
     "senators": [
        {
         "name": "Mailza Gomes",
         "party": "PP",
         "period": "2015 - 2023",
-        "phone": "(61) 3303-1357 / 1367",
+        "phone": "(61) 9 9410-1898 / (68) 9 9928-1011 / (61) 3303-1357 / 1367",
         "email": "sen.mailzagomes@senado.leg.br"
        },
        {
         "name": "Marcio Bittar",
         "party": "MDB",
         "period": "2019 - 2027",
-        "phone": "(61) 3303-2115 / 2119 / 1652",
+        "phone": "(61) 9 9908-0151 / (61) 3303-2115 / 2119 / 1652",
         "email": "sen.marciobittar@senado.leg.br"
        },
        {
         "name": "Sérgio Petecão",
         "party": "PSD",
-        "period": "2015 - 2023",
-        "phone": "(61) 3303-5783 / 5789 / 5787",
-        "email": "fernando.collor@senador.leg.br"
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9676-8998 / (68) 9 9984-0365 / (61) 3303-6708 / 6709",
+        "email": "sergio.petecao@senador.leg.br"
        }
     ]
   },
   "al": {
-    "name": "Alagoas",
+    "state": "Alagoas",
     "acronym": "AL",
     "senators": [
        {
@@ -36,7 +36,615 @@
         "period": "2015 - 2023",
         "phone": "(61) 3303-5783 / 5789 / 5787",
         "email": "fernando.collor@senador.leg.br"
-       }
+       },
+       {
+        "name": "Renan Calheiros",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8155-1500 / (82) 9 9696-2221 / 61) 3303-2261",
+        "email": "renan.calheiros@senador.leg.br"
+        },
+       {
+        "name": "Rodrigo Cunha",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 3303-6083 / (61) 9 9591-4287 / (82) 9 8202-0045",
+        "email": "sen.rodrigocunha@senado.leg.br"
+        }
+    ]
+  },
+  "am": {
+    "state": "Amazona",
+    "acronym": "AM",
+    "senators": [
+       {
+        "name": "Eduardo Braga",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9333-3493 / (92) 9 8225-0500 / (61) 3303-5783 / 5789 / 5787",
+        "email": "eduardo.braga@senador.leg.br"
+       },
+       {
+        "name": "Omar Aziz",
+        "party": "PSD",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9187-2153 / (92) 9 9994-1446 / (61) 3303-6579",
+        "email": "omar.aziz@senador.leg.br"
+        },
+       {
+        "name": "Plínio Valério",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9588-7250 / (92) 9 9981-9918 / (61) 3303-2833 / 2835 / 2837",
+        "email": "sen.pliniovalerio@senado.leg.br"
+        }
+    ]
+  },
+  "ap": {
+    "state": "Amapá",
+    "acronym": "AP",
+    "senators": [
+       {
+        "name": "Davi Alcolumbre",
+        "party": "DEM",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 8118-3231 / (96) 9 9972-1641 / (61) 3303-6717 / 6720 / 6722 / 6723",
+        "email": "davi.alcolumbre@senador.leg.br"
+       },
+       {
+        "name": "Lucas Barreto",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9591-2792 / (96) 9 9148-3714 / (61) 3303-4851",
+        "email": "sen.lucasbarreto@senado.leg.br"
+        },
+       {
+        "name": "Randolfe Rodrigues",
+        "party": "REDE",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9108-6699 / (96) 9 9138-1818 / (61) 3303-6777 / 6568",
+        "email": "randolfe.rodrigues@senador.leg.br"
+        }
+    ]
+  },
+  "ba": {
+    "state": "Bahia",
+    "acronym": "BA",
+    "senators": [
+       {
+        "name": "Angelo Coronel",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9245-3836 / (71) 9 9955-7300/ (61) 3303-6103 / 6105",
+        "email": "sen.angelocoronel@senado.leg.br"
+       },
+       {
+        "name": "Jaques Wagner",
+        "party": "PT",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9593-1954 / (71) 9 8170-8888 / (61) 3303-6390 / 6391",
+        "email": "sen.jaqueswagner@senado.leg.br"
+        },
+       {
+        "name": "Otto Alencar",
+        "party": "PSD",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9303-0719 / (71) 9 9944-9555 / (61) 3303-1464 / 1467",
+        "email": "otto.alencar@senador.leg.br"
+        }
+    ]
+  },
+  "ce": {
+    "state": "Ceará",
+    "acronym": "CE",
+    "senators": [
+       {
+        "name": "Cid Gomes",
+        "party": "PDT",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9589-1122 / (85) 9 8804-0012 / (61) 3303-6460 / 6399",
+        "email": "sen.cidgomes@senado.leg.br"
+       },
+       {
+        "name": "Eduardo Girão",
+        "party": "PODEMOS",
+        "period": "2019 - 2027",
+        "phone": "(85) 9 9111-7476 / (61) 3303-6677 / 6678 / 6679",
+        "email": "sen.eduardogirao@senado.leg.br"
+        },
+       {
+        "name": "Tasso Jereissati",
+        "party": "PSDB",
+        "period": "2015 - 2023",
+        "phone": "(85) 9 9987-7676 / (61) 3303-4502 / 4503",
+        "email": "tasso.jereissati@senador.leg.br"
+        }
+    ]
+  },
+  "es": {
+    "state": "Espírito Santo",
+    "acronym": "ES",
+    "senators": [
+       {
+        "name": "Fabiano Contarato",
+        "party": "REDE",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9421-9954 / (27) 9 9261-3740 / (61) 3303-9049",
+        "email": "sen.fabianocontarato@senado.leg.br"
+       },
+       {
+        "name": "Marcos do Val",
+        "party": "PODEMOS",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9424-1827 / (27) 9 9756-1007 / (61) 3303-6747 / 6753",
+        "email": "sen.marcosdoval@senado.leg.br"
+        },
+       {
+        "name": "Rose de Freitas",
+        "party": "PODEMOS",
+        "period": "2015 - 2023",
+        "phone": "(27) 9 8160-6677 / (61) 3303-1156",
+        "email": "rose.freitas@senadora.leg.br"
+        }
+    ]
+  },
+  "go": {
+    "state": "Goiás",
+    "acronym": "GO",
+    "senators": [
+       {
+        "name": "Jorge Kajuru",
+        "party": "PATRIOTA",
+        "period": "2019 - 2027",
+        "phone": "(62) 9 9049-4444 / (61) 9 9610-5151 / (61) 3303-2844 / 2031",
+        "email": "sen.jorgekajuru@senado.leg.br"
+       },
+       {
+        "name": "Luiz do Carmo",
+        "party": "MDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9280-8023 / (62) 9 9971-2094 / (61) 3303-6439 / 6440 / 6445",
+        "email": "sen.luizcarlosdocarmo@senado.leg.br"
+        },
+       {
+        "name": "Vanderlan Cardoso",
+        "party": "PP",
+        "period": "2019 - 2027",
+        "phone": "(62) 9 9831-7309 / (61) 3303-2092 / 1809 / 2099",
+        "email": "sen.vanderlancardoso@senado.leg.br"
+        }
+    ]
+  },
+  "ma": {
+    "state": "Maranhão",
+    "acronym": "MA",
+    "senators": [
+       {
+        "name": "Eliziane Gama",
+        "party": "PPS",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9617-3563 / (98) 9 9961-4680 / (61) 3303-6741 / 6703",
+        "email": "sen.elizianegama@senado.leg.br"
+       },
+       {
+        "name": "Roberto Rocha",
+        "party": "PSDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9902-4545 / (61) 3303-1437 / 1506",
+        "email": "robertorocha@senador.leg.br"
+        },
+       {
+        "name": "Weverton",
+        "party": "PDT",
+        "period": "2019 - 2027",
+        "phone": "(98) 9 9125-0312 / (61) 3303-4161 / 5867",
+        "email": "sen.wevertonrocha@senado.leg.br"
+        }
+    ]
+  },
+  "mg": {
+    "state": "Minas Gerais",
+    "acronym": "MG",
+    "senators": [
+       {
+        "name": "Antonio Anastasia",
+        "party": "PSDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9101-0731 / (31) 9 9959-1961 / (61) 3303-5717",
+        "email": "antonio.anastasia@senador.leg.br"
+       },
+       {
+        "name": "Carlos Viana",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9588-4882 / (31) 9 8450-0253 / (61) 3303-3100 / 3101 / 3111",
+        "email": "sen.carlosviana@senado.leg.br"
+        },
+       {
+        "name": "Rodrigo Pacheco",
+        "party": "DEM",
+        "period": "2019 - 2027",
+        "phone": "(31) 9 9976-1996 / (61) 3303-2794 / 2795",
+        "email": "sen.rodrigopacheco@senado.leg.br"
+        }
+    ]
+  },
+  "al": {
+    "state": "Mato Grosso do Sul",
+    "acronym": "MS",
+    "senators": [
+       {
+        "name": "Nelsinho Trad",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9399-1987 / (67) 9 8114-7400 / (61) 3303-6767 / 6768 ",
+        "email": "sen.nelsinhotrad@senado.leg.br"
+       },
+       {
+        "name": "Simone Tebet",
+        "party": "MDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9195-4033 / (67) 9 9965-4033 / (61) 3303-1128",
+        "email": "simone.tebet@senadora.leg.br"
+        },
+       {
+        "name": "Soraya Thronicke",
+        "party": "PSL",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9217-8955 / (67) 9 9206-6336 / (61) 3303-1775 / 1772",
+        "email": "sen.sorayathronicke@senado.leg.br"
+        }
+    ]
+  },
+  "mt": {
+    "state": "Mato Grosso",
+    "acronym": "MT",
+    "senators": [
+       {
+        "name": "Jayme Campos",
+        "party": "DEM",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9592-5013 / (65) 9 9981-2008 / (61) 3303-2390 / 2384 / 2394",
+        "email": "sen.JaymeCampos@senado.leg.br"
+       },
+       {
+        "name": "Juíza Selma",
+        "party": "PSL",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9570-7098 / (65) 9 9972-5118 / (61) 3303-6408",
+        "email": "sen.selmaarruda@senado.leg.br"
+        },
+       {
+        "name": "Wellington Fagundes",
+        "party": "PL",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9927-9919 / (61) 9 9121-1230 / (61) 3303-6219 / 3778 / 6213 / 6221 / 3772 / 3775",
+        "email": "wellington.fagundes@senador.leg.br"
+        }
+    ]
+  },
+  "pe": {
+    "state": "Pernambuco",
+    "acronym": "PE",
+    "senators": [
+       {
+        "name": "Fernando Bezerra Coelho",
+        "party": "MDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9132-3640 / (81) 9 9668-0035 / (61) 3303-2182",
+        "email": "fernandobezerracoelho@senador.leg.br"
+       },
+       {
+        "name": "Humberto Costa",
+        "party": "PT",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8118-3828 / (61) 3303-6285 / 6286",
+        "email": "humberto.costa@senador.leg.br"
+        },
+       {
+        "name": "Jarbas Vasconcelos",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8159-4999 / (81) 9 9974-0114 / (61) 3303-3522 / 3431",
+        "email": "sen.jarbasvasconcelos@senado.leg.br"
+        }
+    ]
+  },
+  "pi": {
+    "state": "Piauí",
+    "acronym": "PI",
+    "senators": [
+       {
+        "name": "Ciro Nogueira",
+        "party": "PP",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8109-7777 / (61) 3303-6187 / 6188",
+        "email": "ciro.nogueira@senador.leg.br"
+       },
+       {
+        "name": "Elmano Férrer",
+        "party": "PODEMOS",
+        "period": "2015 - 2023",
+        "phone": "(86) 9 9921-3446 / (61) 9 9343-4484 / (61) 3303-2415 / 3055 / 1015",
+        "email": "elmano.ferrer@senador.leg.br"
+        },
+       {
+        "name": "Marcelo Castro",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(86) 9 9808-1515 / (61) 3303-6130",
+        "email": "sen.marcelocastro@senado.leg.br"
+        }
+    ]
+  },
+  "pr": {
+    "state": "Paraná",
+    "acronym": "PR",
+    "senators": [
+       {
+        "name": "Alvaro Dias",
+        "party": "PODEMOS",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9166-0004 / (61) 3303-4059 / 4060",
+        "email": "alvarodias@senador.leg.br"
+       },
+       {
+        "name": "Flávio Arns",
+        "party": "REDE",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9586-2223 / (41) 9 9689-1779 / (61) 3303-6301",
+        "email": "sen.flavioarns@senado.leg.br"
+        },
+       {
+        "name": "Oriovisto Guimarães",
+        "party": "PODEMOS",
+        "period": "2019 - 2027",
+        "phone": "(41) 9 9971-3550 / (61) 3303-1635",
+        "email": "sen.oriovistoguimaraes@senado.leg.br"
+        }
+    ]
+  },
+  "rj": {
+    "state": "Rio de Janeiro",
+    "acronym": "RJ",
+    "senators": [
+       {
+        "name": "Arolde de Oliveira",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(21) 9 9982-2502 / (21) 9 9989-2442 / (61) 3303-6640 / 6646",
+        "email": "sen.aroldedeoliveira@senado.leg.br"
+       },
+       {
+        "name": "Flávio Bolsonaro",
+        "party": "PSL",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8501-0177 / (21) 9 7100-7954 /(61) 3303-1717 / 1718",
+        "email": "sen.flaviobolsonaro@senado.leg.br"
+        },
+       {
+        "name": "Romário",
+        "party": "PODEMOS",
+        "period": "2015 - 2023",
+        "phone": "(21) 9 8184-9911 / (61) 3303-6519 / 6517",
+        "email": "romario@senador.leg.br"
+        }
+    ]
+  },
+  "rn": {
+    "state": "Rio Grande do Norte",
+    "acronym": "RN",
+    "senators": [
+       {
+        "name": "Jean Paul Prates",
+        "party": "PT",
+        "period": "2015 - 2023",
+        "phone": "(84) 9 8839-3099 / (61) 3303-1777 / 1884",
+        "email": "sen.jeanpaulprates@senado.leg.br"
+       },
+       {
+        "name": "Styvenson Valentim",
+        "party": "PODEMOS",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9578-1406 / (84) 9 8787-0580 / (61) 3303-1148",
+        "email": "sen.styvensonvalentim@senado.leg.br"
+        },
+       {
+        "name": "Zenaide Maia",
+        "party": "PROS",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9588-0184 / (84) 9 9986-9811 / (61) 3303-2371 / 2372",
+        "email": "sen.zenaidemaia@senado.leg.br"
+        }
+    ]
+  },
+  "ro": {
+    "state": "Rondônia",
+    "acronym": "RO",
+    "senators": [
+       {
+        "name": "Acir Gurgacz",
+        "party": "PDT",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9612-1233 / (61) 3303-3131 / 3132 / 1057 / 1343",
+        "email": "acir@senador.leg.br"
+       },
+       {
+        "name": "Confúcio Moura",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(69) 9 8426-5219 / (61) 3303-2470 / 2163",
+        "email": "sen.confuciomoura@senado.leg.br"
+        },
+       {
+        "name": "Marcos Rogério",
+        "party": "DEM",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9664-6152 / (69) 9 9947-0707 / (61) 3303-6148",
+        "email": "sen.marcosrogerio@senado.leg.br"
+        }
+    ]
+  },
+  "rr": {
+    "state": "Roraima",
+    "acronym": "RR",
+    "senators": [
+       {
+        "name": "Chico Rodrigues",
+        "party": "DEM",
+        "period": "2019 - 2037",
+        "phone": "(61) 9 9567-9279 / (95) 9 9967-5661 / (61) 3303-2281 / 2287",
+        "email": "sen.chicorodrigues@senado.leg.br"
+       },
+       {
+        "name": "Mecias de Jesus",
+        "party": "PRB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9315-6551 / (95) 9 9153-5444 / (61) 3303-5291 / 5292",
+        "email": "sen.meciasdejesus@senado.leg.br"
+        },
+       {
+        "name": "Telmário Mota",
+        "party": "PROS",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9146-8329 / (95) 9 9158-6263 / (61) 3303-6315",
+        "email": "telmariomota@senador.leg.br" 
+         }
+    ]
+  },
+  "rs": {
+    "state": "Rio Grande do Sul",
+    "acronym": "RS",
+    "senators": [
+       {
+        "name": "Lasier Martins",
+        "party": "PODEMOS",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9300-9517 / (51) 9 9986-7858 / (61) 3303-2323 / 2321",
+        "email": "lasier.martins@senador.leg.br"
+       },
+       {
+        "name": "Luis Carlos Heinze",
+        "party": "PP",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9965-6593 / (61) 3303-4124 / 4132 / 4127 / 4129",
+        "email": "sen.luiscarlosheinze@senado.leg.br"
+        },
+       {
+        "name": "Paulo Paim",
+        "party": "PT",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9299-2281 / (61) 3303-5232 / 5231 / 5230",
+        "email": "paulopaim@senador.leg.br" 
+        }
+    ]
+  },
+  "sc": {
+    "state": "Santa Catarina",
+    "acronym": "SC",
+    "senators": [
+       {
+        "name": "Dário Berger",
+        "party": "MDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9113-4799 / (61) 3303-5947 / 5951",
+        "email": "dario.berger@senador.leg.br"
+       },
+       {
+        "name": "Esperidião Amin",
+        "party": "PP",
+        "period": "2019 - 2027",
+        "phone": "(48) 9 9981-4527 / (61) 3303-6446 / 6447 / 6454",
+        "email": "sen.esperidiaoamin@senado.leg.br"
+        },
+       {
+        "name": "Jorginho Mello",
+        "party": "PL",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9587-6034 / (48) 9 9911-2223 / (61) 3303-2200",
+        "email": "sen.jorginhomello@senado.leg.br" 
+        }
+    ]
+  },
+  "se": {
+    "state": "Sergipe",
+    "acronym": "SE",
+    "senators": [
+       {
+        "name": "Alessandro Vieira",
+        "party": "CIDADANIA",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9575-3753 / (79) 9 9191-4937 / (61) 3303-9011 / 9014 / 9019",
+        "email": "sen.alessandrovieira@senado.leg.br"
+       },
+       {
+        "name": "Maria do Carmo Alves",
+        "party": "DEM",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 8153-7952 / (79) 9 9981-0510 / (61) 3303-1306 / 4055 / 2878",
+        "email": "maria.carmo.alves@senadora.leg.br"
+        },
+       {
+        "name": "Rogério Carvalho",
+        "party": "PT",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9584-1363 / (79) 9 9900-1311 / (61) 3303-2201 / 2203 / 2204 / 1786",
+        "email": "sen.rogeriocarvalho@senado.leg.br" 
+        }
+    ]
+  },
+  "sp": {
+    "state": "São Paulo",
+    "acronym": "SP",
+    "senators": [
+       {
+        "name": "José Serra",
+        "party": "PSDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9241-4144 / (11) 9 9849-3082 / (61) 3303-6651 / 6655",
+        "email": "jose.serra@senador.leg.br"
+       },
+       {
+        "name": "Major Olimpio",
+        "party": "PSL",
+        "period": "2019 - 2027",
+        "phone": "(11) 9 9981-3646 / (61) 3303-4177 / 4175",
+        "email": "sen.majorolimpio@senado.leg.br"
+        },
+       {
+        "name": "Mara Gabrilli",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(11) 9 9937-0344 / (61) 3303-2191",
+        "email": "sen.maragabrilli@senado.leg.br" 
+        }
+    ]
+  },
+  "to": {
+    "state": "Tocantins",
+    "acronym": "TO",
+    "senators": [
+       {
+        "name": "Irajá",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9626-2528 / (61) 3303-6469",
+        "email": "sen.iraja@senado.leg.br"
+       },
+       {
+        "name": "Kátia Abreu  ",
+        "party": "PDT",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9257-2000 / (61) 3303-2464 / 2708 / 5771 / 2466",
+        "email": "katia.abreu@senadora.leg.br"
+        },
+       {
+        "name": "Siqueira Campos",
+        "party": "DEM",
+        "period": "2019 - 2027",
+        "phone": "(61) 3303-6349 / 6352",
+        "email": ""
+      }
     ]
   }
 }
