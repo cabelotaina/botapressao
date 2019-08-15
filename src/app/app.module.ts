@@ -16,7 +16,8 @@ const appRoutes: Routes = [
     redirectTo: '/home',
     pathMatch: 'full'
   },
-  { path: 'home', component: HomeComponent} 
+  { path: 'home', component: HomeComponent},
+  { path: 'senator/:id', component: SenatorComponent},
   // { path: '**', component: PageNotFoundComponent }
 ];
 
