@@ -1,0 +1,42 @@
+{
+  "ac": {
+    "name": "Acre",
+    "acronym": "AC",
+    "senators": [
+       {
+        "name": "Mailza Gomes",
+        "party": "PP",
+        "period": "2015 - 2023",
+        "phone": "(61) 3303-1357 / 1367",
+        "email": "sen.mailzagomes@senado.leg.br"
+       },
+       {
+        "name": "Marcio Bittar",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 3303-2115 / 2119 / 1652",
+        "email": "sen.marciobittar@senado.leg.br"
+       },
+       {
+        "name": "Sérgio Petecão",
+        "party": "PSD",
+        "period": "2015 - 2023",
+        "phone": "(61) 3303-5783 / 5789 / 5787",
+        "email": "fernando.collor@senador.leg.br"
+       }
+    ]
+  },
+  "al": {
+    "name": "Alagoas",
+    "acronym": "AL",
+    "senators": [
+       {
+        "name": "Fernando Collor",
+        "party": "PROS",
+        "period": "2015 - 2023",
+        "phone": "(61) 3303-5783 / 5789 / 5787",
+        "email": "fernando.collor@senador.leg.br"
+       }
+    ]
+  }
+}

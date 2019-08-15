@@ -2,13 +2,35 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { MapDirective } from './map.component';
+import { StateComponent } from './state/state.component';
+import { HomeComponent } from './home/home.component';
+import { RouterModule, Routes } from '@angular/router';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+
+
+const appRoutes: Routes = [
+  { path: 'state/:id', component: StateComponent },
+  { path: '',
+    redirectTo: '/home',
+    pathMatch: 'full'
+  },
+  { path: 'home', component: HomeComponent} 
+  // { path: '**', component: PageNotFoundComponent }
+];
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MapDirective,
+    StateComponent,
+    HomeComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    RouterModule.forRoot(appRoutes),
+    BrowserAnimationsModule,
+    // MatCardModule  
   ],
   providers: [],
   bootstrap: [AppComponent]
