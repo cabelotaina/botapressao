@@ -385,7 +385,7 @@
         }
     ]
   },
-  "al": {
+  "ms": {
     "state": "Mato Grosso do Sul",
     "acronym": "MS",
     "senators": [
@@ -460,10 +460,10 @@
         "facebook": "https://pt-br.facebook.com/wellington.fagundes.mt/",
         "twitter": "https://twitter.com/sen_wellington?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
         "instagram": "https://www.instagram.com/wellingtonfagundesmt/?hl=pt-br"
-  }
-    ]
-  },
-   "al": {
+        }
+      ]
+    },
+   "pa": {
     "state": "Pará",
     "acronym": "PA",
     "senators": [
@@ -502,7 +502,7 @@
         }
     ]
   },
-  "al": {
+  "pb": {
     "state": "Piauí",
     "acronym": "PB",
     "senators": [
