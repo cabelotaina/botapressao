@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.54mm"
+   height="2.0477588mm"
+   viewBox="0 0 8.9999999 7.2558383"
+   id="svg3698"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="twitter.svg">
+  <defs
+     id="defs3700" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="97.438775"
+     inkscape:cx="4.5"
+     inkscape:cy="3.6279192"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3703">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-252.64286,-548.73429)">
+    <g
+       transform="translate(198.64286,545.27429)"
+       id="g3485">
+      <path
+         class="st2"
+         d="m 54,9.9 c 0.7,0 1.3,-0.1 1.9,-0.3 C 56.2,9.5 56.4,9.3 56.7,9.1 56.4,9.1 56.1,9 55.9,8.9 55.5,8.7 55.2,8.4 55,7.9 c 0,-0.1 0,-0.1 0.1,-0.1 0.3,0 0.5,0 0.7,0 C 55.6,7.7 55.5,7.7 55.4,7.6 54.8,7.3 54.5,6.7 54.4,6 c 0,-0.1 0,-0.1 0.1,-0.1 0.2,0.1 0.4,0.2 0.7,0.2 C 55,6.1 54.9,6 54.9,5.9 54.4,5.4 54.3,4.5 54.6,3.8 c 0,-0.1 0.1,-0.1 0.1,0 0.9,1 1.9,1.6 3.2,1.8 0.1,0 0.3,0 0.4,0.1 0.1,0 0.1,0 0.1,-0.1 -0.1,-0.8 0.2,-1.5 0.9,-1.9 0.7,-0.4 1.6,-0.3 2.2,0.3 0,0 0.1,0 0.2,0 0.3,-0.1 0.7,-0.2 1,-0.4 0,0 0,0 0.1,0 -0.1,0.4 -0.4,0.8 -0.8,1 0.4,0 0.7,-0.1 1,-0.3 0,0 0,0.1 0,0.1 -0.2,0.3 -0.5,0.6 -0.8,0.8 -0.1,0 -0.1,0.1 -0.1,0.1 0,1.3 -0.4,2.5 -1.3,3.6 -0.8,1 -1.8,1.5 -3.1,1.7 -1.3,0.3 -2.5,0 -3.7,-0.7 0.1,0 0,0 0,0 z"
+         id="path3487"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd" />
+    </g>
+  </g>
+</svg>

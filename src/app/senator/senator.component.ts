@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {ActivatedRoute, Params} from '@angular/router';
 
 @Component({
   selector: 'app-senator',
@@ -7,9 +8,23 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SenatorComponent implements OnInit {
 
-  constructor() { }
+  public senator: any = {}
+
+  constructor(private activatedRoute: ActivatedRoute) { }
 
   ngOnInit() {
+    this.activatedRoute.paramMap.subscribe((route) => {
+      console.log(route)
+      this.senator = route["params"]
+    })
+  }
+
+  onNavigate(url) {
+    window.open(url, "_blank");
+  }
+
+  mailTo(email) {
+    window.open('mailto:'+email, "_blank");
   }
 
 }
