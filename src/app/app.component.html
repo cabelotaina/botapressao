@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="/">#342</a>
+  <a class="navbar-brand" routerLink="/">#342</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -10,7 +10,7 @@
         <a class="nav-link" href="/home">Placar <span class="sr-only">(current)</span></a>
       </li> -->
       <li class="nav-item">
-        <a class="nav-link" routerLink="/home"><img src="assets/icon-bar-brazil-map.png">Estados</a>
+        <a class="nav-link" routerLink="/home" routerLinkActive="active"><img src="assets/icon-bar-brazil-map.png">Estados</a>
       </li>
 <!--       <li class="nav-item">
         <a class="nav-link" href="/home">Quema apoia?</a>
@@ -26,7 +26,11 @@
 </nav>
 
 <div class="header">
-  <img width="300" alt="Bota Pressão Logo" src="assets/logo342.svg">
+  <!-- <img width="300" alt="Bota Pressão Logo" src="assets/logo342.svg"> -->
+  <div class="logo p-5">
+    <img width="500" src="assets/logo-desktop.svg" alt="Bota Pressão Logo Desktop" class="desktop" />
+    <img width="300" src="assets/logo-mobile.svg" alt="Bota Pressão Logo Mobile" class="mobile" />
+  </div>
 </div>
 
 <div>
