@@ -8,6 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { RouterModule, Routes } from '@angular/router';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { SenatorComponent } from './senator/senator.component';
+import { IconsComponent } from './icons/icons.component';
 
 
 const appRoutes: Routes = [
@@ -27,7 +28,8 @@ const appRoutes: Routes = [
     MapDirective,
     StateComponent,
     HomeComponent,
-    SenatorComponent
+    SenatorComponent,
+    IconsComponent
   ],
   imports: [
     BrowserModule,

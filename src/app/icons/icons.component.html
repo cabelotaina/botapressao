@@ -1,0 +1,12 @@
+<button type="button" class="btn btn-dark bmd-btn-fab bmd-btn-fab-sm m-1" *ngIf="politic.facebook" (click)="onNavigate(politic.facebook)">
+  <img src="assets/email.svg" width="25px">
+</button>
+<button type="button" class="btn btn-dark bmd-btn-fab bmd-btn-fab-sm m-1" *ngIf="politic.twitter" (click)="onNavigate(politic.twitter)">
+  <img src="assets/facebook.svg" width="19px">
+</button>
+<button type="button" class="btn btn-dark bmd-btn-fab bmd-btn-fab-sm m-1" *ngIf="politic.instagram" (click)="onNavigate(politic.instagram)">
+  <img src="assets/instagram.svg" width="25px">
+</button>
+<button type="button" class="btn btn-dark bmd-btn-fab bmd-btn-fab-sm m-1" *ngIf="politic.email" (click)="mailTo(politic.email)">
+  <img src="assets/twitter.svg" width="25px">
+</button>
