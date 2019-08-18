@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute, Params} from '@angular/router';
 import {IconsComponent} from '../icons/icons.component';
-import states from '../../assets/senators_by_state.json';
+import states from '../../assets/senators-by-state.json';
 
 @Component({
   selector: 'app-state',

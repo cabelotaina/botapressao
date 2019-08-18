@@ -1,10 +1,10 @@
 <div class="container">
   <div class="center">
-    <h1 class="center mt-5">{{state.state}}</h1>
+    <h1 class="center mt-1">{{state.state}}</h1>
     <button type="button" class="btn btn-primary btn-lg center" (click)="sendMessage()">Super Pressão</button>
   </div>
 
-  <div  class="card-deck m-5">
+  <div  class="card-deck m-1">
       <div class="card" *ngFor="let senator of state.senators">
 
         <a [routerLink]="['/senator', senator.name, senator]">
