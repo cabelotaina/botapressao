@@ -14,17 +14,16 @@ export class SenatorComponent implements OnInit {
 
   ngOnInit() {
     this.activatedRoute.paramMap.subscribe((route) => {
-      console.log(route)
       this.senator = route["params"]
     })
   }
 
   onNavigate(url) {
-    window.open(url, "_blank");
+    window.open(url, "_blank")
   }
 
   mailTo(email) {
-    window.open('mailto:'+email, "_blank");
+    window.open('mailto:'+email, "_blank")
   }
 
 }
