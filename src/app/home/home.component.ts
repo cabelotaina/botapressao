@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MapDirective } from '../map.component';
+import { environment } from './../../environments/environment.ts';
 
 @Component({
   selector: 'app-home',
@@ -8,9 +9,15 @@ import { MapDirective } from '../map.component';
 })
 export class HomeComponent implements OnInit {
 
+  twitter = environment.twitter;
+
   constructor() {}
 
   ngOnInit() {
+  }
+
+  onNavigate(url) {
+    window.open(url, "_blank");
   }
 
 }
