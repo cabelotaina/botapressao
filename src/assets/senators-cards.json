@@ -1,0 +1,35 @@
+{
+  "contra": {
+    "quantity": 64,
+    "senators": [
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5557.jpg", "name": "Mailza Gomes"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador285.jpg", "name": "Marcio Bittar"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador4560.jpg", "name": "Sérgio Petecão"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador4525.jpg", "name": "Fernando Collor"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador70.jpg", "name": "Renan Calheiros"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5905.jpg", "name": "Rodrigo Cunha"}
+    ]
+  },
+  "indecisos" :{
+   "quantity": 291,
+    "senators": [
+      {"picture":" https://www.senado.leg.br/senadores/img/fotos-oficiais/senador4994.jpg", "name": "Eduardo Braga"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5525.jpg", "name": "Omar Aziz "},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5502.jpg", "name": "Plínio Valério"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador3830.jpg", "name": "Davi Alcolumbre"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5926.jpg", "name": "Lucas Barreto"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5236.jpg", "name": "Reguffe "}
+    ]
+  },
+  "afavor": {
+    "quantity": 157,
+    "senators": [
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5979.jpg", "name": "Leila Barros"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador4770.jpg", "name": "Izalci Lucas"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5585.jpg", "name": "Luiz do Carmo"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5899.jpg", "name": "Vanderlan Cardoso"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5718.jpg", "name": "Eliziane Gama"},
+      {"picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador677.jpg", "name": "Roberto Rocha"}
+    ]
+  }
+}
