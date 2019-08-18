@@ -15,4 +15,12 @@ export class IconsComponent implements OnInit {
   ngOnInit() {
   }
 
+  onNavigate(url) {
+    window.open(url, "_blank")
+  }
+
+  mailTo(email) {
+    window.open('mailto:'+email)
+  }
+
 }
