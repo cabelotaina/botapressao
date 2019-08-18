@@ -1,4 +1,44 @@
 {
+  "df": {
+    "state": "Distrito Federal",
+    "acronym": "DF",
+    "senators": [
+       {
+       "picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador4770.jpg",
+        "name": "Izalci Lucas",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9966-3850 / (61) 9 9981-9154 / (61) 3303-6049 / 6050",
+        "email": "sen.izalcilucas@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/izalci/",
+        "twitter": "https://twitter.com/IzalciLucas?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "instagram": "https://www.instagram.com/izalci/?hl=pt-br"
+       },
+       {
+       "picture": "",
+        "name": "Leila Barros",
+        "party": "PSB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9273-6655 / (61) 3303-6427",
+        "email": "sen.leilabarros@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/leiladovolei/", 
+        "twitter": "https://twitter.com/leiladovolei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "instagram": "https://www.instagram.com/leiladovolei/"
+        },
+       {
+       "picture": "https://www.senado.leg.br/senadores/img/fotos-oficiais/senador5236.jpg",
+        "name": "Reguffe",
+        "party": "Sem Partido",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9982-4465/ (61) 3303-6355",
+        "email": "reguffe@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/reguffeoficial/",
+        "twitter": "https://twitter.com/reguffe",
+        "instagram": "https://www.instagram.com/reguffe_oficial/"
+        
+      }
+    ]
+  },
   "ac": {
     "state": "Acre",
     "acronym": "AC",
