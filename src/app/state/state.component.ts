@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute, Params} from '@angular/router';
 import {IconsComponent} from '../icons/icons.component';
 import states from '../../assets/senators-by-state.json';
-import { environment } from './../../environments/environment.ts';
+import { environment } from './../../environments/environment';
 
 @Component({
   selector: 'app-state',
@@ -39,7 +39,7 @@ export class StateComponent implements OnInit {
 
     let email = 'mailto:';
 
-    for (let senator = 0; senator < this.state.senators.length; i++) {
+    for (let senator = 0; senator < this.state.senators.length; senator++) {
       if (senator != this.state.senators.length - 1) {
         email += this.state.senators[senator].email + ','
       } else {

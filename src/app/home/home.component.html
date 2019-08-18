@@ -19,16 +19,24 @@
       </button>
     </div>
     <div class="card-body red-background">
-      <img src="">
-      <p>{{'name'||uppercase}}</p>
-      <a>{{'ver todos'|uppercase}}</a>
+      <div *ngFor="let senator of contra.senators">
+        <div class="row">
+          <div class="col-3 mb-2">
+            <img class="avatar" [src]="senator.picture" width="50">
+          </div>
+          <div class="col">
+            <p class="left mt-3">{{senator.name|uppercase}}</p>
+          </div>
+        </div>
+      </div>
+      <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>
   </div>
 
   <div class="card center">
     <div class="card-body black-color">
       <h1 class="display-1 orange-color">291</h1>
-      <h5 class="card-title  white-color"><strong>{{'são contra'| uppercase}}</strong></h5>
+      <h5 class="card-title  white-color"><strong>{{'estão indecisos'| uppercase}}</strong></h5>
       <button type="button" class="btn btn-warning active">
         {{'faça pressão'|uppercase}}
         <br>
@@ -36,16 +44,24 @@
       </button>
     </div>
     <div class="card-body orange-background">
-      <img src="">
-      <p>{{'name'||uppercase}}</p>
-      <a>{{'ver todos'|uppercase}}</a>
+      <div *ngFor="let senator of indecisos.senators">
+        <div class="row">
+          <div class="col-3 mb-2">
+            <img class="avatar" [src]="senator.picture" width="50">
+          </div>
+          <div class="col">
+            <p class="left mt-3">{{senator.name|uppercase}}</p>
+          </div>
+        </div>
+      </div>
+      <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>
   </div>
 
   <div class="card center">
     <div class="card-body black-color">
       <h1 class="display-1 blue-color">157</h1>
-      <h5 class="card-title  white-color"><strong>{{'são contra'| uppercase}}</strong></h5>
+      <h5 class="card-title  white-color"><strong>{{'são a favor'| uppercase}}</strong></h5>
       <button type="button" class="btn btn-warning active">
         {{'mostre seu apoio'|uppercase}}
         <br>
@@ -53,9 +69,17 @@
       </button>
     </div>
     <div class="card-body blue-background">
-      <img src="">
-      <p>{{'name'||uppercase}}</p>
-      <a>{{'ver todos'|uppercase}}</a>
+      <div *ngFor="let senator of afavor.senators">
+        <div class="row">
+          <div class="col-3 mb-2">
+            <img class="avatar" [src]="senator.picture" width="50">
+          </div>
+          <div class="col">
+            <p class="left mt-3">{{senator.name|uppercase}}</p>
+          </div>
+        </div>
+      </div>
+      <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>
   </div>
 </div>

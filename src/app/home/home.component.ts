@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MapDirective } from '../map.component';
-import { environment } from './../../environments/environment.ts';
+import { environment } from './../../environments/environment';
+import senators from '../../assets/senators-cards.json';
 
 @Component({
   selector: 'app-home',
@@ -9,11 +10,17 @@ import { environment } from './../../environments/environment.ts';
 })
 export class HomeComponent implements OnInit {
 
-  twitter = environment.twitter;
+  twitter:string = environment.twitter;
+  contra:any = {};
+  indecisos:any = {};
+  afavor:any = {};
 
   constructor() {}
 
   ngOnInit() {
+    this.contra = senators.contra
+    this.indecisos = senators.indecisos
+    this.afavor = senators.afavor
   }
 
   onNavigate(url) {

@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.left {
+  text-align: left;
+}
+
+.link { color: yellow; } /* CSS link color (red) */
+.link:hover { color: yellow; } /* CSS link hover (green) */
+
+.avatar {
+  border-radius: 50%;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
 .footer {
   margin-top: 20px;
   padding-top: 20px;
