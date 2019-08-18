@@ -20,14 +20,16 @@
     </div>
     <div class="card-body red-background">
       <div *ngFor="let senator of contra.senators">
-        <div class="row">
-          <div class="col-3 mb-2">
-            <img class="avatar" [src]="senator.picture" width="50">
+        <a class="link-black" [routerLink]="['/senator', senator.name, senator]">
+          <div class="row">
+            <div class="col-3 mb-2">
+              <img class="avatar" src="assets/senators/{{senator.picture}}" width="50">
+            </div>
+            <div class="col">
+              <p class="left mt-3">{{senator.name|uppercase}}</p>
+            </div>
           </div>
-          <div class="col">
-            <p class="left mt-3">{{senator.name|uppercase}}</p>
-          </div>
-        </div>
+        </a>
       </div>
       <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>
@@ -45,14 +47,16 @@
     </div>
     <div class="card-body orange-background">
       <div *ngFor="let senator of indecisos.senators">
-        <div class="row">
-          <div class="col-3 mb-2">
-            <img class="avatar" [src]="senator.picture" width="50">
+        <a class="link-black" [routerLink]="['/senator', senator.name, senator]">
+          <div class="row">
+            <div class="col-3 mb-2">
+              <img class="avatar" src="assets/senators/{{senator.picture}}" width="50">
+            </div>
+            <div class="col">
+              <p class="left mt-3">{{senator.name|uppercase}}</p>
+            </div>
           </div>
-          <div class="col">
-            <p class="left mt-3">{{senator.name|uppercase}}</p>
-          </div>
-        </div>
+        </a>
       </div>
       <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>
@@ -70,14 +74,16 @@
     </div>
     <div class="card-body blue-background">
       <div *ngFor="let senator of afavor.senators">
-        <div class="row">
-          <div class="col-3 mb-2">
-            <img class="avatar" [src]="senator.picture" width="50">
+        <a class="link-black" [routerLink]="['/senator', senator.name, senator]">
+          <div class="row">
+            <div class="col-3 mb-2">
+              <img class="avatar" src="assets/senators/{{senator.picture}}" width="50">
+            </div>
+            <div class="col">
+              <p class="left mt-3">{{senator.name|uppercase}}</p>
+            </div>
           </div>
-          <div class="col">
-            <p class="left mt-3">{{senator.name|uppercase}}</p>
-          </div>
-        </div>
+        </a>
       </div>
       <a class="link" routerLink="">{{'ver todos'|uppercase}}</a>
     </div>

@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+.link-black { color: black; } /* CSS link color (red) */
+.link-black:hover { color: black; } /* CSS link hover (green) */
+
 .left {
   text-align: left;
 }

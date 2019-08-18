@@ -3,7 +3,7 @@
     "quantity": 64,
     "senators": [
       {
-        "picture": "assets/senators/senador5557.jpg",
+        "picture": "senador5557.jpg",
         "name": "Mailza Gomes",
         "party": "PP",
         "period": "2015 - 2023",
@@ -14,7 +14,7 @@
         "instagram": "https://www.instagram.com/senadoramailzagomes"
       },
       {
-        "picture": "assets/senators/senador285.jpg",
+        "picture": "senador285.jpg",
         "name": "Marcio Bittar",
         "party": "MDB",
         "period": "2019 - 2027",
@@ -25,7 +25,7 @@
         "instagram": "https://www.instagram.com/marciobittar_"
       },
       {
-        "picture": "assets/senators/senador4560.jpg",
+        "picture": "senador4560.jpg",
         "name": "Sérgio Petecão",
         "party": "PSD",
         "period": "2019 - 2027",
@@ -35,7 +35,7 @@
         "twitter": "senadorpetecao"
       },
       {
-        "picture": "assets/senators/senador4525.jpg",
+        "picture": "senador4525.jpg",
         "name": "Fernando Collor",
         "party": "PROS",
         "period": "2015 - 2023",
@@ -46,7 +46,7 @@
         "instagram": "https://www.instagram.com/fernando_collor/"
       },
       {
-        "picture": "assets/senators/senador70.jpg",
+        "picture": "senador70.jpg",
         "name": "Renan Calheiros",
         "party": "MDB",
         "period": "2019 - 2027",
@@ -57,7 +57,7 @@
         "instagram": "https://www.instagram.com/renancalheiros"
       },
       {
-        "picture": "assets/senators/senador5905.jpg",
+        "picture": "senador5905.jpg",
         "name": "Rodrigo Cunha",
         "party": "PSDB",
         "period": "2019 - 2027",
@@ -73,7 +73,7 @@
    "quantity": 291,
     "senators": [
       {
-        "picture":" assets/senators/senador4994.jpg",
+        "picture":"senador4994.jpg",
         "name": "Eduardo Braga",
         "party": "MDB",
         "period": "2019 - 2027",
@@ -84,7 +84,7 @@
         "instagram": "https://www.instagram.com/eduardobraga_am"
       },
       {
-        "picture": "assets/senators/senador5525.jpg",
+        "picture": "senador5525.jpg",
         "name": "Omar Aziz",
         "party": "PSD",
         "period": "2015 - 2023",
@@ -95,7 +95,7 @@
         "instagram": "https://www.instagram.com/omarazizsenador/"
       },
       {
-        "picture": "assets/senators/senador5502.jpg",
+        "picture": "senador5502.jpg",
         "name": "Plínio Valério",
         "party": "PSDB",
         "period": "2019 - 2027",
@@ -106,7 +106,7 @@
         "instagram": "https://www.instagram.com/plinio.valerio"
       },
       {
-        "picture": "assets/senators/senador3830.jpg",
+        "picture": "senador3830.jpg",
         "name": "Davi Alcolumbre",
         "party": "DEM",
         "period": "2015 - 2023",
@@ -117,7 +117,7 @@
         "instagram": "https://www.instagram.com/davialcolumbre"
       },
       {
-        "picture": "assets/senators/senador5926.jpg",
+        "picture": "senador5926.jpg",
         "name": "Lucas Barreto",
         "party": "PSD",
         "period": "2019 - 2027",
@@ -128,7 +128,7 @@
         "instagram": "https://www.instagram.com/lucasbarretosenador/"
       },
       {
-        "picture": "assets/senators/senador5236.jpg",
+        "picture": "senador5236.jpg",
         "name": "Reguffe",
         "party": "Sem Partido",
         "period": "2015 - 2023",
@@ -144,7 +144,7 @@
     "quantity": 157,
     "senators": [
       {
-        "picture": "assets/senators/senador5979.jpg",
+        "picture": "senador5979.jpg",
         "name": "Leila Barros",
         "party": "PSB",
         "period": "2019 - 2027",
@@ -155,7 +155,7 @@
         "instagram": "https://www.instagram.com/leiladovolei/"
       },
       {
-        "picture": "assets/senators/senador4770.jpg",
+        "picture": "senador4770.jpg",
         "name": "Izalci Lucas",
         "party": "PSDB",
         "period": "2019 - 2027",
@@ -166,7 +166,7 @@
         "instagram": "https://www.instagram.com/izalci"
       },
       {
-        "picture": "assets/senators/senador5585.jpg",
+        "picture": "senador5585.jpg",
         "name": "Luiz do Carmo",
         "party": "MDB",
         "period": "2015 - 2023",
@@ -177,7 +177,7 @@
         "instagram": "https://www.instagram.com/luizdocarmosenador/"
       },
       {
-        "picture": "assets/senators/senador5899.jpg",
+        "picture": "senador5899.jpg",
         "name": "Vanderlan Cardoso",
         "party": "PP",
         "period": "2019 - 2027",
@@ -188,7 +188,7 @@
         "instagram": "https://www.instagram.com/vanderlancardosooficial"
       },
       {
-        "picture": "assets/senators/senador5718.jpg",
+        "picture": "senador5718.jpg",
         "name": "Eliziane Gama",
         "period": "2019 - 2027",
         "phone": "(61) 9 9617-3563 / (98) 9 9961-4680 / (61) 3303-6741 / 6703",
@@ -198,7 +198,7 @@
         "instagram": "https://www.instagram.com/elizianegama"
       },
       {
-        "picture": "assets/senators/senador677.jpg",
+        "picture": "senador677.jpg",
         "name": "Roberto Rocha",
         "party": "PSDB",
         "period": "2015 - 2023",
