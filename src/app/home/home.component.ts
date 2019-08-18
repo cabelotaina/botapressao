@@ -10,7 +10,6 @@ import senators from '../../assets/senators-cards.json';
 })
 export class HomeComponent implements OnInit {
 
-  twitter:string = environment.twitter;
   contra:any = {};
   indecisos:any = {};
   afavor:any = {};
@@ -25,6 +24,10 @@ export class HomeComponent implements OnInit {
 
   onNavigate(url) {
     window.open(url, "_blank");
+  }
+
+  onTwitt() {
+    window.open(environment.twitter_intent+environment.twitter_text, "_blank");
   }
 
 }
