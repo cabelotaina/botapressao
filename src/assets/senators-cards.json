@@ -2,34 +2,212 @@
   "contra": {
     "quantity": 64,
     "senators": [
-      {"picture": "assets/senators/senador5557.jpg", "name": "Mailza Gomes"},
-      {"picture": "assets/senators/senador285.jpg", "name": "Marcio Bittar"},
-      {"picture": "assets/senators/senador4560.jpg", "name": "Sérgio Petecão"},
-      {"picture": "assets/senators/senador4525.jpg", "name": "Fernando Collor"},
-      {"picture": "assets/senators/senador70.jpg", "name": "Renan Calheiros"},
-      {"picture": "assets/senators/senador5905.jpg", "name": "Rodrigo Cunha"}
+      {
+        "picture": "assets/senators/senador5557.jpg",
+        "name": "Mailza Gomes",
+        "party": "PP",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9410-1898 / (68) 9 9928-1011 / (61) 3303-1357 / 1367",
+        "email": "sen.mailzagomes@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/mailzagomes11/",
+        "twitter": "MailzaGomes",
+        "instagram": "https://www.instagram.com/senadoramailzagomes"
+      },
+      {
+        "picture": "assets/senators/senador285.jpg",
+        "name": "Marcio Bittar",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9908-0151 / (61) 3303-2115 / 2119 / 1652",
+        "email": "sen.marciobittar@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/MarcioBittarOficial/",
+        "twitter": "marciombittar",
+        "instagram": "https://www.instagram.com/marciobittar_"
+      },
+      {
+        "picture": "assets/senators/senador4560.jpg",
+        "name": "Sérgio Petecão",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9676-8998 / (68) 9 9984-0365 / (61) 3303-6708 / 6709",
+        "email": "sergio.petecao@senador.leg.br",
+        "facebook":"https://pt-br.facebook.com/senadorpetecao",
+        "twitter": "senadorpetecao"
+      },
+      {
+        "picture": "assets/senators/senador4525.jpg",
+        "name": "Fernando Collor",
+        "party": "PROS",
+        "period": "2015 - 2023",
+        "phone": "(61) 3303-5783 / 5789 / 5787",
+        "email": "fernando.collor@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/colloralagoas/",
+        "twitter": "collor",
+        "instagram": "https://www.instagram.com/fernando_collor/"
+      },
+      {
+        "picture": "assets/senators/senador70.jpg",
+        "name": "Renan Calheiros",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 8155-1500 / (82) 9 9696-2221 / 61) 3303-2261",
+        "email": "renan.calheiros@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/renansenador/",
+        "twitter": "renancalheiros",
+        "instagram": "https://www.instagram.com/renancalheiros"
+      },
+      {
+        "picture": "assets/senators/senador5905.jpg",
+        "name": "Rodrigo Cunha",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 3303-6083 / (61) 9 9591-4287 / (82) 9 8202-0045",
+        "email": "sen.rodrigocunha@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/RodrigoCunhaAL/",
+        "twitter": "rodrigocunhaal",
+        "instagram": "https://www.instagram.com/rodrigocunhaal"
+      }
     ]
   },
   "indecisos" :{
    "quantity": 291,
     "senators": [
-      {"picture":" assets/senators/senador4994.jpg", "name": "Eduardo Braga"},
-      {"picture": "assets/senators/senador5525.jpg", "name": "Omar Aziz "},
-      {"picture": "assets/senators/senador5502.jpg", "name": "Plínio Valério"},
-      {"picture": "assets/senators/senador3830.jpg", "name": "Davi Alcolumbre"},
-      {"picture": "assets/senators/senador5926.jpg", "name": "Lucas Barreto"},
-      {"picture": "assets/senators/senador5236.jpg", "name": "Reguffe "}
+      {
+        "picture":" assets/senators/senador4994.jpg",
+        "name": "Eduardo Braga",
+        "party": "MDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9333-3493 / (92) 9 8225-0500 / (61) 3303-5783 / 5789 / 5787",
+        "email": "eduardo.braga@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/EduardoBraga15/",
+        "twitter": "EduardoBraga_AM",
+        "instagram": "https://www.instagram.com/eduardobraga_am"
+      },
+      {
+        "picture": "assets/senators/senador5525.jpg",
+        "name": "Omar Aziz",
+        "party": "PSD",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9187-2153 / (92) 9 9994-1446 / (61) 3303-6579",
+        "email": "omar.aziz@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/OmarAzizPSD/",
+        "twitter": "omarazizpsd",
+        "instagram": "https://www.instagram.com/omarazizsenador/"
+      },
+      {
+        "picture": "assets/senators/senador5502.jpg",
+        "name": "Plínio Valério",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9588-7250 / (92) 9 9981-9918 / (61) 3303-2833 / 2835 / 2837",
+        "email": "sen.pliniovalerio@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/PlinioValerioAM/",
+        "twitter": "pliniovalerio45",
+        "instagram": "https://www.instagram.com/plinio.valerio"
+      },
+      {
+        "picture": "assets/senators/senador3830.jpg",
+        "name": "Davi Alcolumbre",
+        "party": "DEM",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 8118-3231 / (96) 9 9972-1641 / (61) 3303-6717 / 6720 / 6722 / 6723",
+        "email": "davi.alcolumbre@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/davi.alcolumbre/",
+        "twitter": "davialcolumbre",
+        "instagram": "https://www.instagram.com/davialcolumbre"
+      },
+      {
+        "picture": "assets/senators/senador5926.jpg",
+        "name": "Lucas Barreto",
+        "party": "PSD",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9591-2792 / (96) 9 9148-3714 / (61) 3303-4851",
+        "email": "sen.lucasbarreto@senado.leg.br",
+        "facebook": "https://www.facebook.com/lucasbarretosenador/",
+        "twitter": "lucasbarreto_ap",
+        "instagram": "https://www.instagram.com/lucasbarretosenador/"
+      },
+      {
+        "picture": "assets/senators/senador5236.jpg",
+        "name": "Reguffe",
+        "party": "Sem Partido",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9982-4465/ (61) 3303-6355",
+        "email": "reguffe@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/reguffeoficial/",
+        "twitter": "reguffe",
+        "instagram": "https://www.instagram.com/reguffe_oficial/"
+      }
     ]
   },
   "afavor": {
     "quantity": 157,
     "senators": [
-      {"picture": "assets/senators/senador5979.jpg", "name": "Leila Barros"},
-      {"picture": "assets/senators/senador4770.jpg", "name": "Izalci Lucas"},
-      {"picture": "assets/senators/senador5585.jpg", "name": "Luiz do Carmo"},
-      {"picture": "assets/senators/senador5899.jpg", "name": "Vanderlan Cardoso"},
-      {"picture": "assets/senators/senador5718.jpg", "name": "Eliziane Gama"},
-      {"picture": "assets/senators/senador677.jpg", "name": "Roberto Rocha"}
+      {
+        "picture": "assets/senators/senador5979.jpg",
+        "name": "Leila Barros",
+        "party": "PSB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9273-6655 / (61) 3303-6427",
+        "email": "sen.leilabarros@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/leiladovolei/", 
+        "twitter": "leiladovolei",
+        "instagram": "https://www.instagram.com/leiladovolei/"
+      },
+      {
+        "picture": "assets/senators/senador4770.jpg",
+        "name": "Izalci Lucas",
+        "party": "PSDB",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9966-3850 / (61) 9 9981-9154 / (61) 3303-6049 / 6050",
+        "email": "sen.izalcilucas@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/izalci/",
+        "twitter": "IzalciLucas",
+        "instagram": "https://www.instagram.com/izalci"
+      },
+      {
+        "picture": "assets/senators/senador5585.jpg",
+        "name": "Luiz do Carmo",
+        "party": "MDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9280-8023 / (62) 9 9971-2094 / (61) 3303-6439 / 6440 / 6445",
+        "email": "sen.luizcarlosdocarmo@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/luizdocarmosenador/",
+        "twitter": "_luizdocarmo",
+        "instagram": "https://www.instagram.com/luizdocarmosenador/"
+      },
+      {
+        "picture": "assets/senators/senador5899.jpg",
+        "name": "Vanderlan Cardoso",
+        "party": "PP",
+        "period": "2019 - 2027",
+        "phone": "(62) 9 9831-7309 / (61) 3303-2092 / 1809 / 2099",
+        "email": "sen.vanderlancardoso@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/VanderlanCardosoOficial/",
+        "twitter": "vanderlan_vc",
+        "instagram": "https://www.instagram.com/vanderlancardosooficial"
+      },
+      {
+        "picture": "assets/senators/senador5718.jpg",
+        "name": "Eliziane Gama",
+        "period": "2019 - 2027",
+        "phone": "(61) 9 9617-3563 / (98) 9 9961-4680 / (61) 3303-6741 / 6703",
+        "email": "sen.elizianegama@senado.leg.br",
+        "facebook": "https://pt-br.facebook.com/elizianegama/",
+        "twitter": "elizianegama",
+        "instagram": "https://www.instagram.com/elizianegama"
+      },
+      {
+        "picture": "assets/senators/senador677.jpg",
+        "name": "Roberto Rocha",
+        "party": "PSDB",
+        "period": "2015 - 2023",
+        "phone": "(61) 9 9902-4545 / (61) 3303-1437 / 1506",
+        "email": "robertorocha@senador.leg.br",
+        "facebook": "https://pt-br.facebook.com/SigaRoberto/",
+        "twitter": "SigaRoberto_",
+        "instagram": "https://www.instagram.com/sigaroberto_"
+      }
     ]
   }
 }
