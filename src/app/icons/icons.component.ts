@@ -25,7 +25,7 @@ export class IconsComponent implements OnInit {
   }
 
   mailTo(email) {
-    window.open('mailto:'+email)
+    window.open('mailto:'+email+'?subject='+environment.subject+'&body='+environment.body)
   }
 
 }
